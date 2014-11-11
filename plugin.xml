@@ -20,10 +20,10 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
            id="com.andycorman.cordova.inappbrowser"
-      version="1.0"><!-- Based off inAppBrowser version 0.5.3 -->
+      version="1.1"><!-- Based off inAppBrowser version 0.5.3 -->
 
     <name>InAppBrowser</name>
-    <description>Cordova InAppBrowser Plugin with Android "Back" button fix</description>
+    <description>Cordova InAppBrowser Plugin with Android "Back" button fix - Based off inAppBrowser version 0.5.3</description>
     <license>Apache 2.0</license>
     <keywords>cordova,in,app,browser,inappbrowser,fix,back,button</keywords>
     <repo>https://github.com/andycorm/inappbrowser-back-button-fix.git</repo>

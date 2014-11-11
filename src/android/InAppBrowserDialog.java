@@ -51,7 +51,7 @@ public class InAppBrowserDialog extends Dialog {
             } else { // Added to fix back button
                 // better to go through the in inAppBrowser
                 // because it does a clean up
-                this.inAppBrowser.closeDialog();
+                // this.inAppBrowser.closeDialog(); // Commented out to fix back button
             } // Added to fix back button
         }
     }
