@@ -20,7 +20,7 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
            id="com.andycorman.cordova.inappbrowser"
-      version="1.1"><!-- Based off inAppBrowser version 0.5.3 -->
+      version="1.2"><!-- Based off inAppBrowser version 0.5.3 -->
 
     <name>InAppBrowser</name>
     <description>Cordova InAppBrowser Plugin with Android "Back" button fix - Based off inAppBrowser version 0.5.3</description>
